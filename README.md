@@ -1,2 +1,2 @@
 # Simon-s-Game
-Javascript Project
+Web Development Project using HTML, CSS , Javascript and Jquery.
